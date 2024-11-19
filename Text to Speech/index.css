@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+}
+.container {
+  margin: 10px;
+  height: 100vh;
+  width: 100%;
+}
+.main-content {
+  background: linear-gradient(90deg, #ffafbd, #ffc3a0);
+}
+
+#txt {
+  margin: 0% 27%;
+  width: 600px;
+  height: 350px;
+  border: black;
+  border-width: 6px;
+  border-radius: 4px;
+}
+p {
+  color: red;
+  font-size: x-small;
+  margin-left: 40%;
+  margin-top: 1%;
+}
+.btn {
+  background-color: #4caf50; /* Green */
+  border: none;
+  border-radius: 10px;
+  color: white;
+  padding: 15px 32px;
+  margin-top: 1%;
+  margin-left: 43%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
